@@ -27,10 +27,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _w0bi 
 github_username:  tobiaswirtz
 
+google-analytics: UA-82228530-2
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +54,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-82228530-2          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
