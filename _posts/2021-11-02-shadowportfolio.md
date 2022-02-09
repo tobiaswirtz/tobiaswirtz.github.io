@@ -10,3 +10,4 @@ I try to keep an eye on the early-stage market in an industry-agnostic and busin
 1. [Pipedream Labs](https://www.pipedreamlabs.co/) - Building the Cloud for Objects
 2. [aiConomix](https://aiconomix.com/en) - RPA for everyone
 3. [sourcery.ai](https://sourcery.ai/) - Automatic Refactoring made simple
+4. [Horizon](https://www.gethorizon.net/) - Data-driven Product Validation
