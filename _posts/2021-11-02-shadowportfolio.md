@@ -7,7 +7,7 @@ categories: tech
 
 I try to keep an eye on the early-stage market in an industry-agnostic and business-model-agnostic way. My shadow portfolio currently consists of:
 
-1. [Pipedream Labs](https://www.pipedreamlabs.co/) - Building the Cloud for Objects
+1. [Pipedream Labs](https://www.pipedreamlabs.co/) - Building the cloud for objects
 2. [aiConomix](https://aiconomix.com/en) - RPA for everyone
-3. [sourcery.ai](https://sourcery.ai/) - Automatic Refactoring made simple
-4. [Horizon](https://www.gethorizon.net/) - Data-driven Product Validation
+3. [sourcery.ai](https://sourcery.ai/) - Automatic refactoring made simple
+4. [Horizon](https://www.gethorizon.net/) - Data-driven product validation
