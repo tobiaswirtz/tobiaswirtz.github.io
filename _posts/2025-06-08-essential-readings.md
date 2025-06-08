@@ -10,6 +10,7 @@ Here's a list of books and essays that everyone should have read at least once:
 - Bostrom, Nick: _Superintelligence: Paths, Dangers, Strategies_
 - Chen, Andrew: _The Cold Start Problem: How to Start and Scale Network Effects_
 - Davies, Jamie A.: _Synthetic Biology: A Very Short Introduction_
+- Kafka, Franz: _The Castle_
 - Kafka, Franz: _The Zürau Aphorisms_
 - Klein, Ezra: _Abundance_
 - Kundera, Milan: _A Kidnapped West: The Tragedy of Central Europe_
