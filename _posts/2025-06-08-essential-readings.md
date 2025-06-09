@@ -7,6 +7,8 @@ categories: books
 
 Here's a list of books, poetry, and essays that are part of my canon. I try to read as widely as possible, but my focus areas recently have been biology, German classics, and European history.
 
+- Alexander, Scott: _I Can Tolerate Anything Except The Outgroup_
+- Alexander, Scott: _The Categories Were Made For Man, Not Man For The Categories_
 - Asparouhova, Nadia: _Antimemetics: Why Some Ideas Resist Spreading_ 
 - Baudelaire, Charles: _Paris Spleen_
 - Barr, James: _A Line in the Sand: Britain, France and the Struggle that Shaped the Middle East_
