@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Books I like"
+title:  "Books that have shaped my thinking"
 date:   2025-06-08 12:00:06 +0200
 categories: books
 ---
 
-Here's a list of books, poetry, and essays that are part of my canon. I try to read as widely as possible, but my focus areas recently have been biology, German classics, and European history.
+Here's a list of books, poetry, and essays that are part of my canon. I try to read as widely as possible, but my focus areas recently have been biology, German classics, and European history. I will update it as I keep finding more interesting works.
 
 - Alexander, Scott: _I Can Tolerate Anything Except The Outgroup_
 - Alexander, Scott: _The Categories Were Made For Man, Not Man For The Categories_
@@ -40,6 +40,7 @@ Here's a list of books, poetry, and essays that are part of my canon. I try to r
 - Mann, Thomas: _The Magic Mountain_
 - Mukherjee, Siddartha: _The Gene: An Intimate History_
 - Münkler, Herfried: _The Thirty Years War: European Catastrophe, German Trauma_
+- Myers, John: _The housing theory of everything_
 - Publius: _The Federalist Papers_
 - Remarque, Erich Maria: _All Quiet on the Western Front_
 - Rimbaud, Arthur: _A Season in Hell_
