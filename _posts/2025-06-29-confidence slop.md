@@ -14,7 +14,7 @@ I'm sure if you have been on Instagram, Twitter, or, god forbid, Facebook recent
 
 Examples of this are status updates in any of your Slack channels that use emojis to highlight important paragraphs and tag all the right people. They all look the same, but they clearly do not all describe the same states of the world. It is relatively easy to define, but to differentiate what is confidence slop and what is actually good work is very hard.
 
-<p align="center"><img src="../_site/assets/confidenceslop.png" width="300"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/67117863-140d-4e96-8e61-48ab3e453415" width="300"></p>
 
 In the above message, many different thoughts are communicated, most of which do not have much impact on decision-making in the future. A little differentiation is made between levels of confidence of certain items. However, the general tenor of the update is "everything is under control" and lots of uncertainty is abstracted away under language that feels like it should give you confidence that everything will go well (e.g. "All blockers have owners and next steps"). Obfuscating this uncertainty is one of the key detriments of confidence slop. The message's format is almost ideally designed to make the reader's eyes glaze over and evoke an as-of-yet-undeserved sense of trust. Nevertheless, there is always a lot of truth to confidence slop, making it hard to disentangle what to believe and what to question.
 
@@ -33,14 +33,14 @@ The core problem of confidence slop is that it has become too easy to produce it
 
 One approach to do this would be to visually communicate confidence levels. This needs to happen in a non-obtrusive way. My first idea was to play with the font weight as an indicator of the confidence level with faint writing showing low confidence in a belief.
 
-<p align="center"><img src="../_site/assets/noslopfontweight.png" width="750"></p>
+<p align="center"><img src="https://github.com/tobiaswirtz/tobiaswirtz.github.io/blob/gh-pages/_site/assets/noslopfontweight.png?raw=true" width="750"></p>
 
 I like this approach because it naturally draws the eye to the beliefs that are low confidence, hopefully allowing the writer and later the reader to think more about whether they should be upheld or not.
 
 ## Assumptions are second-level
 People often try to communicate uncertainty about a belief with a clarifying comment on their own document. This also achieves drawing the eye, but it does not allow you to easily prioritize which uncertainty to address first as you really need to read every comment for that. In the model above, uncertainty is communicated by font weight, allowing prioritization. How to deal with the uncertainty is a second-level idea. Therefore, I made the choice to only show assumptions when viewing a specific belief.
 
-<p align="center"><img src="../_site/assets/noslopassumptions.png" width="750"></p>
+<p align="center"><img src="https://github.com/tobiaswirtz/tobiaswirtz.github.io/blob/gh-pages/_site/assets/noslopassumptions.png?raw=true" width="750"></p>
 
 _Code for the prototype can be found in the corresponding [Github repo](https://github.com/tobiaswirtz/NoSlop)._
 
