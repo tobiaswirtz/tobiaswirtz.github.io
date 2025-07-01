@@ -23,6 +23,7 @@ Here's a list of books, poetry, and essays that are part of my canon. I try to r
 - Fukuyama, Francis: _The End of History and the Last Man_
 - Fukuyama, Francis: _The Origins of Political Order: From Prehuman Times to the French Revolution_
 - Goodsell, David S.: _The Machinery of Life_
+- Grove, Andy: _High Output Management_
 - Havel, Václav: _The Power of the Powerless_
 - Helmer, Hamilton: _7 Powers: The Foundations of Business Strategy_
 - Hemingway, Ernest: _A Moveable Feast_
