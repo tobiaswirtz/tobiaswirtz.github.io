@@ -22,6 +22,7 @@ Here's a list of books, poetry, and essays that are part of my canon. I try to r
 - Feynmann, Richard P.: _"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character_
 - Fukuyama, Francis: _The End of History and the Last Man_
 - Fukuyama, Francis: _The Origins of Political Order: From Prehuman Times to the French Revolution_
+- Ghattas, Kim: _Black Wave: Saudi Arabia, Iran, and the Rivalry that Unravelled the Middle East_
 - Goodsell, David S.: _The Machinery of Life_
 - Grove, Andy: _High Output Management_
 - Havel, Václav: _The Power of the Powerless_
