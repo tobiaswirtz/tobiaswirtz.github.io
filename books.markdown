@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-Here's a list of books, poetry, and essays that are part of my canon. I try to read as widely as possible, but my focus areas recently have been biology, German classics, and European history. I will update it as I keep finding more interesting works.
+Here's a list of books, poetry, and essays that have influenced my thinking. I will update it as I keep finding more interesting works.
 
 - Alexander, Scott: _I Can Tolerate Anything Except The Outgroup_
 - Alexander, Scott: _The Categories Were Made For Man, Not Man For The Categories_
