@@ -48,6 +48,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Sarotte, Mary Elise: _Not One Inch: America, Russia, and the Making of Post-Cold War Stalemate_
 - Smil, Vaclav: _Energy and Civilization: A History_
 - Suetonius: _The Twelve Caesars_
+- Thiel, Peter: _Zero to One: Notes on Startups, or How to Build the Future_
 - Tooze, Adam: _The Deluge: The Great War, America and the Remaking of the Global Order, 1916-1931_
 - Torres, Teresa: _Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value_
 - Vonnegut, Kurt: _Slaughterhouse-Five_
