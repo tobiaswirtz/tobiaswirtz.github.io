@@ -10,24 +10,31 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Alexander, Scott: _The Categories Were Made For Man, Not Man For The Categories_
 - Asparouhova, Nadia: _Antimemetics: Why Some Ideas Resist Spreading_ 
 - Baudelaire, Charles: _Paris Spleen_
+- Barker, Pat: _Regeneration_
 - Barr, James: _A Line in the Sand: Britain, France and the Struggle that Shaped the Middle East_
 - Bisky, Jens: _The Decision: Germany 1929 to 1934_
 - Bland, David J.: _Testing Business Ideas: A Field Guide for Rapid Experimentation_
 - Bostrom, Nick: _Superintelligence: Paths, Dangers, Strategies_
 - Bulgakov, Mikhail: _The Master and Margarita_
+- Camus, Albert: _The Stranger_
 - Chen, Andrew: _The Cold Start Problem: How to Start and Scale Network Effects_
 - Clancy, Tom: _Red Storm Rising_
 - Clark, Christopher: _Iron Kingdom: The Rise and Downfall of Prussia, 1600–1947_
 - Davies, Jamie A.: _Synthetic Biology: A Very Short Introduction_
+- Ende, Michael: _The Neverending Story_
 - Feynmann, Richard P.: _"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character_
 - Fukuyama, Francis: _The End of History and the Last Man_
 - Fukuyama, Francis: _The Origins of Political Order: From Prehuman Times to the French Revolution_
 - Ghattas, Kim: _Black Wave: Saudi Arabia, Iran, and the Rivalry that Unravelled the Middle East_
 - Goodsell, David S.: _The Machinery of Life_
 - Grove, Andy: _High Output Management_
+- Guggolz, Sebastian: _Read Kafka_
+- Haasis, Hellmut G.: _Dawn of the Republic: The German Democrats West of the Rhine, 1789–1849_
 - Havel, Václav: _The Power of the Powerless_
+- Hawking, Stephen: _A Brief History of Time_
 - Helmer, Hamilton: _7 Powers: The Foundations of Business Strategy_
 - Hemingway, Ernest: _A Moveable Feast_
+- Homer: _The Odyssey_
 - Ishiguro, Kazuo: _Never Let Me Go_
 - Judt, Tony: _Postwar: A History of Europe Since 1945_
 - Kafka, Franz: _The Castle_
@@ -42,16 +49,23 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Mukherjee, Siddartha: _The Gene: An Intimate History_
 - Münkler, Herfried: _The Thirty Years War: European Catastrophe, German Trauma_
 - Myers, John: _The housing theory of everything_
+- O'Brien, Tim: _The Things They Carried_
+- Orwell, George, _Animal Farm_
 - Publius: _The Federalist Papers_
 - Remarque, Erich Maria: _All Quiet on the Western Front_
+- Rilke, Rainer Maria: _New Poems_
 - Rimbaud, Arthur: _A Season in Hell_
 - Sarotte, Mary Elise: _Not One Inch: America, Russia, and the Making of Post-Cold War Stalemate_
+- Slobodian, Quinn: _	Globalists: The End of Empire and the Birth of Neoliberalism_
 - Smil, Vaclav: _Energy and Civilization: A History_
+- Stroud, Jonathan: _The Bartimaeus Sequence_
 - Suetonius: _The Twelve Caesars_
 - Symonds, Craig L.: _Nimitz at War: Command Leadership from Pearl Harbor to Tokyo Bay_
 - Thiel, Peter: _Zero to One: Notes on Startups, or How to Build the Future_
+- Tooze, Adam: _Crashed: How a Decade of Financial Crises Changed the World_
 - Tooze, Adam: _The Deluge: The Great War, America and the Remaking of the Global Order, 1916-1931_
 - Torres, Teresa: _Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value_
 - Vonnegut, Kurt: _Slaughterhouse-Five_
+- Woolf, Virginia: _To the Lighthouse_
 - Zweig, Stefan: _Chess Story_
 - Zweig, Stefan: _The World of Yesterday_
