@@ -57,7 +57,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Rilke, Rainer Maria: _New Poems_
 - Rimbaud, Arthur: _A Season in Hell_
 - Sarotte, Mary Elise: _Not One Inch: America, Russia, and the Making of Post-Cold War Stalemate_
-- Slobodian, Quinn: _	Globalists: The End of Empire and the Birth of Neoliberalism_
+- Slobodian, Quinn: _Globalists: The End of Empire and the Birth of Neoliberalism_
 - Smil, Vaclav: _Energy and Civilization: A History_
 - Stroud, Jonathan: _The Bartimaeus Sequence_
 - Suetonius: _The Twelve Caesars_
