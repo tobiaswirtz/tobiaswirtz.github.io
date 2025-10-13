@@ -51,6 +51,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Myers, John: _The housing theory of everything_
 - O'Brien, Tim: _The Things They Carried_
 - Orwell, George, _Animal Farm_
+- Power, Samantha: _The Education of an Idealist: A Memoir_
 - Publius: _The Federalist Papers_
 - Remarque, Erich Maria: _All Quiet on the Western Front_
 - Rilke, Rainer Maria: _New Poems_
