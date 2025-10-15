@@ -50,7 +50,8 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Münkler, Herfried: _The Thirty Years War: European Catastrophe, German Trauma_
 - Myers, John: _The housing theory of everything_
 - O'Brien, Tim: _The Things They Carried_
-- Orwell, George, _Animal Farm_
+- Orwell, George: _Animal Farm_
+- Orwell, George: _Notes on Nationalism_
 - Power, Samantha: _The Education of an Idealist: A Memoir_
 - Publius: _The Federalist Papers_
 - Remarque, Erich Maria: _All Quiet on the Western Front_
@@ -66,6 +67,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Tooze, Adam: _Crashed: How a Decade of Financial Crises Changed the World_
 - Tooze, Adam: _The Deluge: The Great War, America and the Remaking of the Global Order, 1916-1931_
 - Torres, Teresa: _Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value_
+- von Horváth, Ödön: _Youth Without God_
 - Vonnegut, Kurt: _Slaughterhouse-Five_
 - Woolf, Virginia: _To the Lighthouse_
 - Zweig, Stefan: _Chess Story_
