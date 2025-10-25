@@ -64,6 +64,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Suetonius: _The Twelve Caesars_
 - Symonds, Craig L.: _Nimitz at War: Command Leadership from Pearl Harbor to Tokyo Bay_
 - Thiel, Peter: _Zero to One: Notes on Startups, or How to Build the Future_
+- Thucydides: _History of the Peloponnesian War_
 - Tooze, Adam: _Crashed: How a Decade of Financial Crises Changed the World_
 - Tooze, Adam: _The Deluge: The Great War, America and the Remaking of the Global Order, 1916-1931_
 - Torres, Teresa: _Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value_
