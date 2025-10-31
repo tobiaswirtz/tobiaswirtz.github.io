@@ -37,6 +37,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Homer: _The Odyssey_
 - Ishiguro, Kazuo: _Never Let Me Go_
 - Judt, Tony: _Postwar: A History of Europe Since 1945_
+- Kafka, Franz: _In the Penal Colony_
 - Kafka, Franz: _The Castle_
 - Kafka, Franz: _The Metamorphosis_
 - Kafka, Franz: _The Trial_
