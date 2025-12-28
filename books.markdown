@@ -43,6 +43,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Kafka, Franz: _The Trial_
 - Kafka, Franz: _The Zürau Aphorisms_
 - Klein, Ezra: _Abundance_
+- Klemperer, Victor: _LTI – Lingua Tertii Imperii_
 - Kundera, Milan: _A Kidnapped West: The Tragedy of Central Europe_
 - Mann, Thomas: _Death in Venice_
 - Mann, Thomas: _Doktor Faustus_ 
