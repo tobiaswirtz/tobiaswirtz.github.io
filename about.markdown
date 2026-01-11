@@ -6,6 +6,8 @@ permalink: /about/
 
 I'm Tobias Wirtz, a Senior Product Manager at Personio. I write about building products, startups, reading, and anything that comes to mind.
 
+Whenever I have free time, I am building [Magellink](https://magellink.com), the best way for European Product Teams to parallelize experimentantion.
+
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
