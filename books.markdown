@@ -32,6 +32,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Haasis, Hellmut G.: _Dawn of the Republic: The German Democrats West of the Rhine, 1789–1849_
 - Havel, Václav: _The Power of the Powerless_
 - Hawking, Stephen: _A Brief History of Time_
+- Hayek, Friedrich August: _The Constitution of Liberty_
 - Helmer, Hamilton: _7 Powers: The Foundations of Business Strategy_
 - Hemingway, Ernest: _A Moveable Feast_
 - Homer: _The Odyssey_
