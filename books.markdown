@@ -27,6 +27,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Fukuyama, Francis: _The Origins of Political Order: From Prehuman Times to the French Revolution_
 - Ghattas, Kim: _Black Wave: Saudi Arabia, Iran, and the Rivalry that Unravelled the Middle East_
 - Goodsell, David S.: _The Machinery of Life_
+- Green, John: _Everything is Tuberculosis: The History and Persistence of Our Deadliest Infection_
 - Grove, Andy: _High Output Management_
 - Guggolz, Sebastian: _Read Kafka_
 - Haasis, Hellmut G.: _Dawn of the Republic: The German Democrats West of the Rhine, 1789–1849_
