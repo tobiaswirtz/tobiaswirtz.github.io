@@ -3,23 +3,15 @@
 
   <div class="wrapper footer-row">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          {%- if site.author.email -%}
-          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif -%}
-        </ul>
-      </div>
+    <ul class="contact-list">
+      {%- if site.author.email -%}
+      <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+      {%- endif -%}
+    </ul>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+    {%- include social.html -%}
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
+    <p class="footer-description">{{ site.description | escape }}</p>
 
     <p class="footer-legal">&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }} &middot; <a href="{{ '/imprint/' | relative_url }}">Imprint</a></p>
 

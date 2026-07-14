@@ -4,23 +4,22 @@
 @import "minima";
 
 .footer-row {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: start;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  column-gap: $spacing-unit;
+  row-gap: 5px;
+  @include relative-font-size(0.9375);
+  color: $grey-color;
+}
 
-  @include media-query($on-palm) {
-    grid-template-columns: 1fr;
-  }
+.footer-description {
+  margin: 0;
 }
 
 .footer-legal {
-  @include relative-font-size(0.9375);
-  color: $grey-color;
+  margin: 0 0 0 auto;
   white-space: nowrap;
-
-  @include media-query($on-palm) {
-    margin-top: $spacing-unit / 2;
-  }
 
   a {
     color: inherit;
