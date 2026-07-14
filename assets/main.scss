@@ -1,0 +1,15 @@
+---
+---
+
+@import "minima";
+
+.footer-legal {
+  font-size: $small-font-size;
+  color: $brand-color;
+  margin-top: 15px;
+
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
