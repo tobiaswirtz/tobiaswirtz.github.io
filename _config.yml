@@ -34,6 +34,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - blog.markdown
+  - building-in-public.markdown
   - projects.markdown
   - books.markdown
   - about.markdown
