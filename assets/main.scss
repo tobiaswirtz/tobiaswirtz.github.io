@@ -3,8 +3,16 @@
 
 @import "minima";
 
+.footer-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: start;
+}
+
 .footer-legal {
-  margin-top: 5px;
+  @include relative-font-size(0.9375);
+  color: $grey-color;
+  white-space: nowrap;
 
   a {
     color: inherit;
