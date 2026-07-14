@@ -9,6 +9,7 @@
           {%- if site.author.email -%}
           <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif -%}
+          <li class="footer-legal">&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }} &middot; <a href="{{ '/imprint/' | relative_url }}">Imprint</a></li>
         </ul>
       </div>
 
@@ -20,8 +21,6 @@
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
-
-    <p class="footer-legal">&copy; {{ site.time | date: '%Y' }} {{ site.title | escape }} &middot; <a href="{{ '/imprint/' | relative_url }}">Imprint</a></p>
 
   </div>
 
