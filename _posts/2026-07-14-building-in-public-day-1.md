@@ -43,8 +43,11 @@ Right now it only runs through a browser call, not a real phone call. I'm unclea
 
 None of this is launched to the public yet because I haven't set up the infrastructure, but it works locally.
 
+<p align="center"><img src="{{ '/assets/day1/interviews-dashboard.webp' | relative_url }}" width="750"></p>
+
 ## What's still open
 
 1. GTM motion: I'm thinking about looking at companies with a succession problem or with a desire to sell as a wedge due to the more acute knowledge problem, I'm not sure about this though.
+2. Branding and naming.
 
 _Repo is private for now. Will open it up once there's something in it worth reading._
