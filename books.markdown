@@ -8,7 +8,8 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 
 - Alexander, Scott: _I Can Tolerate Anything Except The Outgroup_
 - Alexander, Scott: _The Categories Were Made For Man, Not Man For The Categories_
-- Asparouhova, Nadia: _Antimemetics: Why Some Ideas Resist Spreading_ 
+- Asparouhova, Nadia: _Antimemetics: Why Some Ideas Resist Spreading_
+- Bachmann, Ingeborg: _The Thirtieth Year_
 - Baudelaire, Charles: _Paris Spleen_
 - Barker, Pat: _Regeneration_
 - Barr, James: _A Line in the Sand: Britain, France and the Struggle that Shaped the Middle East_
