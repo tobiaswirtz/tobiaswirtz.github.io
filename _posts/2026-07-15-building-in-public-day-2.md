@@ -11,25 +11,28 @@ Day 2. Three things on the list today: line up interviews, find a way to reach c
 
 I reached out to people I already know and set up two interviews with contacts for whom this might be relevant. Warm intros first, because the fastest way to find out whether the knowledge-loss pain is real (hypothesis 1) is to talk to people who will actually pick up the phone.
 
-Two is a start, not a signal. The goal for the next few days is to keep this pipeline filling.
-
 ## A cold outreach source for ICP customers
 
-I need a repeatable way to reach companies I don't know. Today I had an AI agent qualify **23 companies** against my ICP — German Mittelstand manufacturers, roughly 50 to 500 people — as a candidate list to reach out to.
-
-The list is the easy part. Whether any of them respond to a cold approach is the actual test, and I haven't run it yet.
+I need a repeatable way to reach companies I don't know. Today I had an AI agent qualify **23 companies** against my ICP as a candidate list to reach out to. I will reach out to these companies tomorrow.
 
 ## What it takes to deploy
 
-I spent time working out what it would actually take to put the MVP in front of a real company, and found two blockers that cut straight against my value prop of European data residency and self-hosting:
+I spent time working out what it would actually take to put the MVP in front of a real company, and found two blockers:
 
-1. **Multi-tenancy.** The MVP wasn't built to cleanly separate one customer's data from another's. If I'm selling data residency and trust, that has to be airtight before anyone real touches it.
-2. **US-hosted dependencies.** Some of the libraries I'm using are served from American CDNs. "No US subprocessors anywhere" doesn't hold if the browser is quietly pulling assets from the US on every page load.
+1. **Multi-tenancy.** The MVP wasn't built to cleanly separate one customer's data from another's. This obviously has to change if I want to deploy it.
+2. **US-hosted dependencies.** Some of the libraries I'm using are served from American CDNs. Need to be substituted to ensure European hosting and data residency.
 
-On the plus side, I turned the deployment work into a **runbook** — a written, repeatable set of steps for standing up the MVP — so this isn't knowledge that only lives in my head.
+On the plus side, I turned the deployment work into a **runbook**, a written, repeatable set of steps for shipping the MVP, so this isn't knowledge that only lives in my head.
 
 ## Hypotheses
 
-No progress on any of my hypotheses today. Everything I did was setup: pipeline, list, infrastructure. Necessary, but none of it moved a single assumption from "I think" to "I know." The interviews are where that starts to change.
+No progress on any of my hypotheses today. Everything I did was setup: pipeline, list, infrastructure.
 
-Tomorrow: run the interviews I lined up and start closing the deployment gaps.
+## Random Thoughts
+I found a great video on growth hacks that I will take some inspiration from. Check it out [here](https://www.youtube.com/watch?v=7UrrqBIUs_g).
+
+## Tomorrow
+
+1. Do cold outreach to the 23 companies mentioned above
+2. Create a Business Model Canvas to be very clear about what I am building.
+3. Launch a landing page - anything!
