@@ -17,7 +17,7 @@ I built a Lean Canvas to force myself to be precise about what I'm building, who
 
 The biggest open question that fell out of it is **channels**. I have "personal outreach" and then a question mark. I know how to reach a handful of companies through my own network and one cold list. I do not yet have a repeatable way to reach the German Mittelstand at scale.
 
-<p align="center"><img src="{{ '/assets/day3/lean-canvas.svg' | relative_url }}" width="850"></p>
+<p align="center"><img src="{{ '/assets/day3/lean-canvas.png' | relative_url }}" width="850"></p>
 
 ## The interview that reshaped the plan
 
