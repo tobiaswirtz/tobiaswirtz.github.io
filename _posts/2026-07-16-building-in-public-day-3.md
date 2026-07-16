@@ -17,6 +17,8 @@ I built a Lean Canvas to force myself to be precise about what I'm building, who
 
 The biggest open question that fell out of it is **channels**. I have "personal outreach" and then a question mark. I know how to reach a handful of companies through my own network and one cold list. I do not yet have a repeatable way to reach the German Mittelstand at scale.
 
+<p align="center"><img src="{{ '/assets/day3/lean-canvas.svg' | relative_url }}" width="850"></p>
+
 ## The interview that reshaped the plan
 
 I did one interview with a Mittelstand CEO. Three things came out of it, in increasing order of how much they changed my thinking.
@@ -34,6 +36,6 @@ I did one interview with a Mittelstand CEO. Three things came out of it, in incr
 
 ## Tomorrow
 
-1. Rework the pitch and product framing around trust and buy-in, not transcription quality.
-2. Attack the channel question head-on: find one repeatable way to reach Mittelstand companies at scale.
-3. Do the second interview and specifically probe the on-premise gate and the fear-of-replaceability dynamic.
+1. Rebuild into an on-prem solution.
+2. Work in the trust and control aspect from the first interview.
+3. Think about channel experiments.

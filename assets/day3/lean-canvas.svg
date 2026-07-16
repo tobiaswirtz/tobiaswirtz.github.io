@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1400" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <style>
+    .card { fill:#ffffff; stroke:#e4e4e7; stroke-width:1.5; }
+    .title { font-size:24px; font-weight:700; fill:#18181b; }
+    .sub { font-size:14px; font-style:italic; fill:#8a8a90; }
+    .bullet { font-size:16px; fill:#27272a; }
+    .dot { font-size:16px; fill:#27272a; }
+    .lbl { font-size:15px; font-weight:600; fill:#52525b; }
+    .div { stroke:#ececf0; stroke-width:1.5; }
+  </style>
+
+  <rect x="0" y="0" width="2000" height="1400" fill="#fafafa"/>
+
+  <!-- ================= UPPER ROW ================= -->
+  <!-- Problem -->
+  <rect class="card" x="0" y="0" width="400" height="680"/>
+  <text class="title" x="24" y="42">🙄 Problem</text>
+  <line class="div" x1="24" y1="58" x2="376" y2="58"/>
+  <text class="sub" x="24" y="90">List your top 1-3 problems</text>
+  <text class="dot" x="24" y="126">•</text>
+  <text class="bullet" x="42" y="126">Knowledge in companies that</text>
+  <text class="bullet" x="42" y="148">needs to be documented is</text>
+  <text class="bullet" x="42" y="170">distributed across employees</text>
+  <text class="dot" x="24" y="200">•</text>
+  <text class="bullet" x="42" y="200">Talking to people and</text>
+  <text class="bullet" x="42" y="222">documenting takes a lot of</text>
+  <text class="bullet" x="42" y="244">time and effort</text>
+  <text class="dot" x="24" y="274">•</text>
+  <text class="bullet" x="42" y="274">Many companies do not want</text>
+  <text class="bullet" x="42" y="296">their trade secrets to be in</text>
+  <text class="bullet" x="42" y="318">the cloud</text>
+
+  <!-- Solution -->
+  <rect class="card" x="400" y="0" width="400" height="680"/>
+  <text class="title" x="424" y="42">😃 Solution</text>
+  <line class="div" x1="424" y1="58" x2="776" y2="58"/>
+  <text class="sub" x="424" y="90">Outline a possible solution</text>
+  <text class="sub" x="424" y="110">for each problem</text>
+  <text class="dot" x="424" y="146">•</text>
+  <text class="bullet" x="442" y="146">Allow CEOs / department</text>
+  <text class="bullet" x="442" y="168">leaders to schedule</text>
+  <text class="bullet" x="442" y="190">interviews of their employees</text>
+  <text class="dot" x="424" y="220">•</text>
+  <text class="bullet" x="442" y="220">The interviews will be</text>
+  <text class="bullet" x="442" y="242">performed by AI</text>
+  <text class="dot" x="424" y="272">•</text>
+  <text class="bullet" x="442" y="272">The solution will be hosted</text>
+  <text class="bullet" x="442" y="294">on premise</text>
+
+  <!-- Unique Value Proposition -->
+  <rect class="card" x="800" y="0" width="400" height="680"/>
+  <text class="title" x="824" y="42">🤯 Unique Value</text>
+  <text class="title" x="824" y="72">Proposition</text>
+  <line class="div" x1="824" y1="88" x2="1176" y2="88"/>
+  <text class="sub" x="824" y="120">Single, clear, compelling</text>
+  <text class="sub" x="824" y="140">message</text>
+  <text class="dot" x="824" y="176">•</text>
+  <text class="bullet" x="842" y="176">Simple and secure knowledge</text>
+  <text class="bullet" x="842" y="198">management for German</text>
+  <text class="bullet" x="842" y="220">Mittelstand</text>
+
+  <!-- Unfair Advantage -->
+  <rect class="card" x="1200" y="0" width="400" height="680"/>
+  <text class="title" x="1224" y="42">🤫 Unfair Advantage</text>
+  <line class="div" x1="1224" y1="58" x2="1576" y2="58"/>
+  <text class="sub" x="1224" y="90">Something that cannot be</text>
+  <text class="sub" x="1224" y="110">easily bought or copied</text>
+  <text class="dot" x="1224" y="146">•</text>
+  <text class="bullet" x="1242" y="146">Pricing model</text>
+  <text class="bullet" x="1242" y="168">counterposition - charge</text>
+  <text class="bullet" x="1242" y="190">high 4-figure one-time fee</text>
+  <text class="bullet" x="1242" y="212">and almost at-cost</text>
+  <text class="bullet" x="1242" y="234">subscription</text>
+
+  <!-- Customer Segments -->
+  <rect class="card" x="1600" y="0" width="400" height="680"/>
+  <text class="title" x="1624" y="42">👫 Customer</text>
+  <text class="title" x="1624" y="72">Segments</text>
+  <line class="div" x1="1624" y1="88" x2="1976" y2="88"/>
+  <text class="sub" x="1624" y="120">List your target users</text>
+  <text class="dot" x="1624" y="156">•</text>
+  <text class="bullet" x="1642" y="156">German Mittelstand</text>
+  <text class="bullet" x="1642" y="178">companies between 50 and</text>
+  <text class="bullet" x="1642" y="200">500 employees</text>
+
+  <!-- ================= NESTED ROW ================= -->
+  <!-- Existing Alternatives -->
+  <rect class="card" x="0" y="680" width="400" height="440"/>
+  <text class="title" x="24" y="722">👀 Existing</text>
+  <text class="title" x="24" y="752">Alternatives</text>
+  <line class="div" x1="24" y1="768" x2="376" y2="768"/>
+  <text class="sub" x="24" y="800">List how these problems are</text>
+  <text class="sub" x="24" y="820">solved today</text>
+  <text class="dot" x="24" y="856">•</text>
+  <text class="bullet" x="42" y="856">Internal solutions</text>
+  <text class="dot" x="24" y="886">•</text>
+  <text class="bullet" x="42" y="886">Some cloud solutions that</text>
+  <text class="bullet" x="42" y="908">look at documents or do</text>
+  <text class="bullet" x="42" y="930">screen recordings</text>
+
+  <!-- Key Metrics -->
+  <rect class="card" x="400" y="680" width="400" height="440"/>
+  <text class="title" x="424" y="722">📊 Key Metrics</text>
+  <line class="div" x1="424" y1="768" x2="776" y2="768"/>
+  <text class="sub" x="424" y="800">Key numbers to judge the</text>
+  <text class="sub" x="424" y="820">business</text>
+  <text class="dot" x="424" y="856">•</text>
+  <text class="bullet" x="442" y="856">Number of deployed systems</text>
+
+  <!-- High-Level Concept -->
+  <rect class="card" x="800" y="680" width="400" height="440"/>
+  <text class="title" x="824" y="722">🧠 High-Level</text>
+  <text class="title" x="824" y="752">Concept</text>
+  <line class="div" x1="824" y1="768" x2="1176" y2="768"/>
+  <text class="sub" x="824" y="800">List your X for Y analogy</text>
+  <text class="dot" x="824" y="836">•</text>
+  <text class="bullet" x="842" y="836">Exit interviews for your</text>
+  <text class="bullet" x="842" y="858">whole team, continuously</text>
+
+  <!-- Channels -->
+  <rect class="card" x="1200" y="680" width="400" height="440"/>
+  <text class="title" x="1224" y="722">🛒 Channels</text>
+  <line class="div" x1="1224" y1="768" x2="1576" y2="768"/>
+  <text class="sub" x="1224" y="800">List your path to customer</text>
+  <text class="dot" x="1224" y="836">•</text>
+  <text class="bullet" x="1242" y="836">Personal outreach</text>
+  <text class="dot" x="1224" y="866">•</text>
+  <text class="bullet" x="1242" y="866">?</text>
+
+  <!-- Early Adopters -->
+  <rect class="card" x="1600" y="680" width="400" height="440"/>
+  <text class="title" x="1624" y="722">🏃 Early Adopters</text>
+  <line class="div" x1="1624" y1="768" x2="1976" y2="768"/>
+  <text class="sub" x="1624" y="800">List characteristics of ideal</text>
+  <text class="sub" x="1624" y="820">customers</text>
+  <text class="dot" x="1624" y="856">•</text>
+  <text class="bullet" x="1642" y="856">Already have some digital</text>
+  <text class="bullet" x="1642" y="878">competence</text>
+  <text class="dot" x="1624" y="908">•</text>
+  <text class="bullet" x="1642" y="908">In a documentation-heavy</text>
+  <text class="bullet" x="1642" y="930">industry</text>
+  <text class="dot" x="1624" y="960">•</text>
+  <text class="bullet" x="1642" y="960">Trying to sell the business</text>
+
+  <!-- ================= BOTTOM ROW ================= -->
+  <!-- Cost Structure -->
+  <rect class="card" x="0" y="1120" width="1000" height="280"/>
+  <text class="title" x="24" y="1162">💵 Cost Structure</text>
+  <line class="div" x1="24" y1="1178" x2="976" y2="1178"/>
+  <text class="lbl" x="24" y="1212">Fixed Costs:</text>
+  <text class="dot" x="24" y="1244">•</text>
+  <text class="bullet" x="42" y="1244">?</text>
+  <text class="lbl" x="24" y="1288">Variable Costs:</text>
+  <text class="dot" x="24" y="1320">•</text>
+  <text class="bullet" x="42" y="1320">Implementation costs</text>
+
+  <!-- Revenue Streams -->
+  <rect class="card" x="1000" y="1120" width="1000" height="280"/>
+  <text class="title" x="1024" y="1162">🤑 Revenue Streams</text>
+  <line class="div" x1="1024" y1="1178" x2="1976" y2="1178"/>
+  <text class="sub" x="1024" y="1210">List your sources of revenue</text>
+  <text class="dot" x="1024" y="1246">•</text>
+  <text class="bullet" x="1042" y="1246">One-time fee of 8000 Euros</text>
+  <text class="dot" x="1024" y="1276">•</text>
+  <text class="bullet" x="1042" y="1276">Flat 50 Euro subscription fee</text>
+</svg>
