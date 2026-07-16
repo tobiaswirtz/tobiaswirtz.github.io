@@ -35,4 +35,4 @@ I found a great video on growth hacks that I will take some inspiration from. Ch
 
 1. Do cold outreach to the 23 companies mentioned above
 2. Create a Business Model Canvas to be very clear about what I am building.
-3. Launch a landing page - anything!
+3. Do one of the customer interviews
