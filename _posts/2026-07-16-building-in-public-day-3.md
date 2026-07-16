@@ -19,13 +19,13 @@ The biggest open question that fell out of it is **channels**. I have "personal 
 
 <p align="center"><img src="{{ '/assets/day3/lean-canvas.png' | relative_url }}" width="850"></p>
 
-## The interview that reshaped the plan
+## Customer interview
 
 I did one interview with a Mittelstand CEO. Three things came out of it, in increasing order of how much they changed my thinking.
 
 **First, the need is real.** Documentation is genuinely required, and today they do it with slower, more manual mechanisms. That's hypothesis 1 getting a little more solid: the pain exists and they already spend effort on it.
 
-**Second, on-premise is table stakes** He is currently turning down lots of cloud AI vendor that lands on his desk, because his crown-jewel IP cannot leave the building. I'd been treating "EU-hosted" as the differentiator, but for this segment EU hosting alone won't be enough.
+**Second, on-premise is table stakes.** He is currently turning down lots of cloud AI vendor that lands on his desk, because his crown-jewel IP cannot leave the building. I'd been treating "EU-hosted" as the differentiator, but for this segment EU hosting alone won't be enough.
 
 **Third, and this is the one that's rearranging the whole thing: the hard part isn't the tech.** People resist documenting because they're afraid it makes them replaceable, sometimes to the point of reporting false numbers so their process stays a black box. Following up with employees to get them to document also took considerable effort.
 
