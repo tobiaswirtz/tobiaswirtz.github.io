@@ -2,3 +2,6 @@
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Decrypted date deck — see tools/README.md. Never commit this.
+ideas.json

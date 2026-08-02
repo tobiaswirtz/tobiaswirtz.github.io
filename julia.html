@@ -1,0 +1,178 @@
+---
+permalink: /julia/
+layout: null
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
+  <meta name="referrer" content="no-referrer">
+  <meta name="theme-color" content="#1b1220">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Date Deck">
+  <title>Date Deck</title>
+  <link rel="stylesheet" href="{{ '/assets/date-deck/app.css' | relative_url }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128149;</text></svg>">
+</head>
+<body>
+
+<main id="app" class="app">
+
+  <!-- Lock screen -->
+  <section id="screen-lock" class="screen screen--lock">
+    <div class="lock">
+      <h1 class="lock__title">Date Deck</h1>
+      <p class="lock__subtitle">501 ideas for Tobias &amp; Julia.</p>
+      <form id="lock-form" class="lock__form" autocomplete="off">
+        <label class="lock__label" for="lock-input">Passphrase</label>
+        <input id="lock-input" class="lock__input" type="password" inputmode="text"
+               autocapitalize="off" autocorrect="off" spellcheck="false" required>
+        <label class="lock__remember">
+          <input id="lock-remember" type="checkbox" checked>
+          <span>Stay unlocked on this device</span>
+        </label>
+        <button id="lock-submit" class="btn btn--primary" type="submit">Unlock</button>
+        <p id="lock-error" class="lock__error" role="alert" hidden></p>
+      </form>
+    </div>
+  </section>
+
+  <!-- Who is swiping -->
+  <section id="screen-profile" class="screen screen--profile" hidden>
+    <div class="lock">
+      <h1 class="lock__title">Who&rsquo;s swiping?</h1>
+      <p class="lock__subtitle">Hand the phone over any time &mdash; you can switch back up top.</p>
+      <div class="profile-picker">
+        <button class="profile-btn" data-profile="tobias" type="button">Tobias</button>
+        <button class="profile-btn" data-profile="julia" type="button">Julia</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main app -->
+  <section id="screen-main" class="screen screen--main" hidden>
+
+    <header class="topbar">
+      <button id="profile-switch" class="topbar__profile" type="button" aria-label="Switch person">
+        <span class="topbar__avatar" id="profile-initial">T</span>
+        <span class="topbar__name" id="profile-name">Tobias</span>
+      </button>
+      <nav class="tabs" role="tablist">
+        <button class="tab is-active" data-view="deck" role="tab" type="button">Swipe</button>
+        <button class="tab" data-view="matches" role="tab" type="button">
+          Matches <span class="tab__count" id="match-count">0</span>
+        </button>
+        <button class="tab" data-view="settings" role="tab" type="button">Sync</button>
+      </nav>
+    </header>
+
+    <!-- Deck -->
+    <div id="view-deck" class="view view--deck">
+      <div class="deck-head">
+        <button id="filter-toggle" class="chip chip--action" type="button" aria-expanded="false">
+          Filters <span class="chip__count" id="filter-badge" hidden></span>
+        </button>
+        <span class="deck-head__remaining" id="deck-remaining"></span>
+      </div>
+
+      <div id="filter-panel" class="filters" hidden>
+        <div class="filters__group">
+          <h2 class="filters__title">When</h2>
+          <div class="filters__row" id="filter-when"></div>
+        </div>
+        <div class="filters__group">
+          <h2 class="filters__title">Season</h2>
+          <div class="filters__row" id="filter-season"></div>
+        </div>
+        <div class="filters__group">
+          <h2 class="filters__title">Categories</h2>
+          <div class="filters__row" id="filter-categories"></div>
+        </div>
+        <div class="filters__actions">
+          <button id="filter-clear" class="btn btn--ghost btn--small" type="button">Clear all</button>
+          <button id="filter-done" class="btn btn--primary btn--small" type="button">Show deck</button>
+        </div>
+      </div>
+
+      <div id="card-stack" class="stack" aria-live="polite"></div>
+
+      <div id="deck-empty" class="empty" hidden>
+        <p class="empty__title" id="deck-empty-title">Deck cleared.</p>
+        <p class="empty__text" id="deck-empty-text"></p>
+        <button id="deck-empty-action" class="btn btn--ghost btn--small" type="button" hidden></button>
+      </div>
+
+      <div class="controls" id="deck-controls">
+        <button class="circle circle--nope" id="btn-nope" type="button" aria-label="Nope">&#10005;</button>
+        <button class="circle circle--like" id="btn-like" type="button" aria-label="Like">&#9829;</button>
+      </div>
+    </div>
+
+    <!-- Matches -->
+    <div id="view-matches" class="view view--matches" hidden>
+      <div class="matches-head">
+        <p class="matches-head__text" id="matches-summary"></p>
+        <button id="btn-tonight" class="btn btn--primary btn--small" type="button">Pick one for tonight</button>
+      </div>
+      <div id="tonight" class="tonight" hidden></div>
+      <ul id="match-list" class="match-list"></ul>
+      <div id="matches-empty" class="empty" hidden>
+        <p class="empty__title">No matches yet.</p>
+        <p class="empty__text">Ideas you both liked land here. Swipe some, then hand the phone over
+          or paste the other share code under Sync.</p>
+      </div>
+    </div>
+
+    <!-- Sync -->
+    <div id="view-settings" class="view view--settings" hidden>
+      <section class="panel">
+        <h2 class="panel__title">On this device</h2>
+        <p class="panel__text" id="sync-status"></p>
+        <button id="btn-switch-profile" class="btn btn--ghost btn--small" type="button">Switch person</button>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel__title">Send your swipes</h2>
+        <p class="panel__text">Swiping on separate phones? Copy this and send it over. It only
+          contains which ideas you liked &mdash; nothing leaves your phone by itself.</p>
+        <textarea id="share-code" class="code" readonly rows="3"></textarea>
+        <div class="panel__actions">
+          <button id="btn-copy-code" class="btn btn--primary btn--small" type="button">Copy code</button>
+          <button id="btn-copy-link" class="btn btn--ghost btn--small" type="button">Copy link</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel__title">Paste theirs</h2>
+        <p class="panel__text">Drop in the code they sent you (or just open their link).</p>
+        <textarea id="import-code" class="code" rows="3" placeholder="Paste code here"
+                  autocapitalize="off" autocorrect="off" spellcheck="false"></textarea>
+        <div class="panel__actions">
+          <button id="btn-import" class="btn btn--primary btn--small" type="button">Import</button>
+        </div>
+        <p id="import-status" class="panel__note" role="status"></p>
+      </section>
+
+      <section class="panel">
+        <h2 class="panel__title">Reset</h2>
+        <p class="panel__text">Clears everything stored in this browser: both people&rsquo;s swipes,
+          the matches you&rsquo;ve ticked off and the saved passphrase.</p>
+        <div class="panel__actions">
+          <button id="btn-reset" class="btn btn--danger btn--small" type="button">Erase everything</button>
+        </div>
+      </section>
+    </div>
+
+  </section>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+
+</main>
+
+<script src="{{ '/assets/date-deck/app.js' | relative_url }}" type="module"></script>
+</body>
+</html>
