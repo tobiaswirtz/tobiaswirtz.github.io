@@ -15,11 +15,11 @@ Over the weekend I built the first version of a feature I'd been circling for a 
 
 Today I pitched it to the UX research lead at ARD, Germany's public broadcaster. He was interested, and the reason he gave me was more useful than the interest itself.
 
-ARD runs a lot of quantitative research and some qualitative research, but nothing in between. No way to watch a hundred people react to a prototype the way you'd watch five people in a lab. That's not a research problem, it's a tooling gap, and it's exactly what this feature is built to close.
+ARD runs a lot of quantitative research and some qualitative research, but nothing in between. No way to watch a hundred people react to a prototype the way you'd watch five people in a lab.
 
 ## What's still open
 
-A pitch landing isn't the same as a product being ready. Five things came up that I don't have good answers for yet:
+Five things came up that I don't have good answers for yet:
 
 1. **Recruiting.** ARD's own site can't run third-party recruiting tools, so participants have to come from somewhere else.
 2. **Recording face and audio**, not just clicks and timing, while someone works through a prototype.
@@ -29,6 +29,6 @@ A pitch landing isn't the same as a product being ready. Five things came up tha
 
 ## Tomorrow
 
-Starting with recruiting and task/success states, the two that decide whether the core loop works at all: get the right people in front of a prototype, watch them try to do something specific, learn whether they could. The rest only matters once that holds up.
+Starting with recruiting and task/success states: get the right people in front of a prototype, watch them try to do something specific, learn whether they could. The rest only matters once that holds up.
 
 Also filming a LinkedIn video relaunching Magellink around this feature.
