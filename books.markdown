@@ -22,6 +22,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Clancy, Tom: _Red Storm Rising_
 - Clark, Christopher: _Iron Kingdom: The Rise and Downfall of Prussia, 1600–1947_
 - Davies, Jamie A.: _Synthetic Biology: A Very Short Introduction_
+- Dostoevsky, Fyodor: _White Nights_
 - Ende, Michael: _The Neverending Story_
 - Feynmann, Richard P.: _"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character_
 - Fukuyama, Francis: _The End of History and the Last Man_
@@ -32,6 +33,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Grove, Andy: _High Output Management_
 - Guggolz, Sebastian: _Read Kafka_
 - Haasis, Hellmut G.: _Dawn of the Republic: The German Democrats West of the Rhine, 1789–1849_
+- Hall, Cate: _You Can Just Do Things: How High-Agency People Get What They Want Out of Life_
 - Havel, Václav: _The Power of the Powerless_
 - Hawking, Stephen: _A Brief History of Time_
 - Hayek, Friedrich August: _The Constitution of Liberty_
@@ -51,6 +53,7 @@ Here's a list of books, poetry, and essays that have influenced my thinking. I w
 - Mann, Thomas: _Death in Venice_
 - Mann, Thomas: _Doktor Faustus_ 
 - Mann, Thomas: _The Magic Mountain_
+- Mokyr, Joel: _A Culture of Growth: The Origins of the Modern Economy_
 - Mukherjee, Siddartha: _The Gene: An Intimate History_
 - Münkler, Herfried: _The Thirty Years War: European Catastrophe, German Trauma_
 - Myers, John: _The housing theory of everything_
