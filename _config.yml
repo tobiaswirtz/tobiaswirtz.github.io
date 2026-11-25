@@ -35,7 +35,6 @@ plugins:
 
 header_pages:
   - blog.markdown
-  - building-in-public.markdown
   - projects.markdown
   - books.markdown
   - about.markdown

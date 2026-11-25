@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Thoughts on building products, startups, and whatever else is on my mind. I'm also [Building in Public]({{ "/building-in-public/" | relative_url }}) with daily posts.
+Thoughts on building products, startups, and whatever else is on my mind.
 
 <ul class="post-list">
   {% for post in site.posts %}
